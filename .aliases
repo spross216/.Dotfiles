@@ -1,0 +1,6 @@
+alias daily='sudo apt update && sudo apt upgrade -y'
+alias cleanme='python3 ~/projects/python/delete/clean.py'
+alias pignore='curl https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore -o ".gitignore"'
+
+eval "$(starship init bash)"
+
