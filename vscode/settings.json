@@ -1,0 +1,14 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 1,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "editor.accessibilitySupport": "off",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Night Owl"
+}
